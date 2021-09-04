@@ -1,7 +1,7 @@
 ### Hi there, my name is Alpin👋
 
 
-# Just keep learning 🔥
+# Always Learn Something New 🔥
 
 - 🌱 I’m currently learning : React.js
 - 📫 How to reach me: alpinrp02@gmail.com
